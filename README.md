@@ -14,16 +14,6 @@ Sl .no	Apparatus	Range	Type	Quantity
 5	Rheostat		Wire wouned	1
 6	Connecting wires	-	-	As required
 
-Fuse rating calculation for field and armature:
-
-No load test
-
-10 % of rated current (full load current)
-
-Load test
-
-125 % of rated current (full load current)
-
 Precautions
 
 1.   Motor side field rheostat should be kept at minimum resistance position.
@@ -47,17 +37,6 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
-
-Tabulation for Load Test:
-
-Model graph:
-Calculation: 
-
-Open circuit characteristics
-
-  
-Load Characteristics:
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
